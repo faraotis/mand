@@ -1,0 +1,2 @@
+# mand
+ Mandamentos bíblicos
