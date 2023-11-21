@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 481px) {
+    body {
+        margin: auto;
+        max-width: 550px;
+        width: 98vw;
+    }
+
+    #img-pos-header {
+        background: black url('imagens/pexels-jesus.webp') center top no-repeat;
+        background-size: cover;
+        min-height: 600px;
+    }
+
+    section p {
+        line-height: 1.5em;
+        font-size: 1.3em;
+    }
+
+    #svg-top {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    
+    #svg-bottom {
+        position: absolute;
+        
+    }
+}
